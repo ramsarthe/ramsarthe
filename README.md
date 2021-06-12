@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ramsarthe
-- 👀 I’m interested in coding python and Law
+- 👀 I’m interested in coding python for smart contract and blockchain
 - 🌱 I’m currently learning smart contract and blockchain
 - 💞️ I’m looking to collaborate on smart contract (DeFi)
 - 📫 How to reach me alexander_sugiharto@indonesiancryptolaw.com
