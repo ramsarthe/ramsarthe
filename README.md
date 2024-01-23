@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning smart contract and blockchain
 - 💞️ I’m looking to collaborate on smart contract (DeFi)
 - 📫 How to reach me alexander_sugiharto@indonesiancryptolaw.com
+- :) Currently developing Warung.AI (AI Aggregator)
 
 <!---
 ramsarthe/ramsarthe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
